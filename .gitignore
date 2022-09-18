@@ -281,3 +281,5 @@ TSWLatexianTemp*
 # dtx
 *.hd
 *.sty
+test.tex
+test.pdf
